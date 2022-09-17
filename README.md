@@ -14,7 +14,7 @@ Add starlight_dart_socket_io_client as dependency to your pubspec file.
 
 
 ```dart
-   starlight_dart_socket_io:
+   starlight_dart_socket_io_client:
     git:
       url: https://github.com/YeMyoAung/starlight_dart_socket_io_client.git
 ```
